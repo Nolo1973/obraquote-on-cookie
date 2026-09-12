@@ -13,7 +13,7 @@
 |----------|----------------|
 | **GitHub repository** | https://github.com/Nolo1973/obraquote-on-cookie |
 | **Relevant program, contract, token, or application addresses (if applicable)** | Memo program: `MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr`. Cookie genesis: `9wDaBRDgArEUpvhHxGguNkwozsZh4UpGZB9o2EoEcBB2`. RPC: `https://rpc.cookiescan.io`. App does not deploy a custom program in v1; escrow-intent uses SPL Memo + optional 0-lamport self-transfer. Live tx signature(s): `REPLACE_AFTER_FIRST_LIVE_TX`. |
-| **Live application URL** | `REPLACE_AFTER_DEPLOY` — e.g. Vercel/Netlify/Cloudflare Pages URL of this repo |
+| **Live application URL** | https://nolo1973.github.io/obraquote-on-cookie/ |
 
 ### Main submission fields
 
